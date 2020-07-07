@@ -11,6 +11,9 @@ flask = "*"
 requests = "*"
 googlemaps = "*"
 python-dotenv = "*"
+redis = "*"
+flask-cors = "*"
+uwsgi = "*"
 
 [requires]
 python_version = "3.8"
